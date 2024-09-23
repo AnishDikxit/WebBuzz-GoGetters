@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.bg-cricket {
+  background-image: url('../src/assets/cricket-icon.jpg');
+  background-size: cover;
+  background-position: center;
+}
